@@ -101,6 +101,8 @@ class predictFuction(QDialog, Third):
 
     #預測線寬的核心功能
     def predict(self):
+        os.makedirs(downloadEncrpyModel)
+        os.makedirs(realServerModel)
         '''
         * 系統功能核心:
             1. 從serverDB下載server model

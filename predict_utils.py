@@ -10,7 +10,7 @@ import shutil
 
 def connect_serverDB(DBstring): #進入頁面後就執行這段code
         client = MongoClient(DBstring)
-        db = client.server_model
+        db = client.server_model_test
         return db
 
 #下載後要解密

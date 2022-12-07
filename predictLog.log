@@ -345,3 +345,14 @@ INFO  -41 -log_utils - 2022-12-01 15:41:55  OTP login suceesfully
 INFO  -84 -log_utils - 2022-12-01 15:41:57  Start to use the predicting system.       
 INFO  -56 -log_utils - 2022-12-01 15:42:09  serverDB connects suceesfully 
 INFO  -70 -log_utils - 2022-12-01 15:42:11  Line width result is 136.25 
+INFO  -25 -log_utils - 2022-12-07 10:01:34  keycloak login suceesfully 
+INFO  -41 -log_utils - 2022-12-07 10:01:44  OTP login suceesfully 
+INFO  -84 -log_utils - 2022-12-07 10:01:47  Start to use the predicting system.       
+INFO  -25 -log_utils - 2022-12-07 10:05:21  keycloak login suceesfully 
+INFO  -41 -log_utils - 2022-12-07 10:05:28  OTP login suceesfully 
+INFO  -84 -log_utils - 2022-12-07 10:05:30  Start to use the predicting system.       
+INFO  -25 -log_utils - 2022-12-07 10:16:29  keycloak login suceesfully 
+INFO  -41 -log_utils - 2022-12-07 10:16:36  OTP login suceesfully 
+INFO  -84 -log_utils - 2022-12-07 10:16:37  Start to use the predicting system.       
+INFO  -56 -log_utils - 2022-12-07 10:16:50  serverDB connects suceesfully 
+INFO  -70 -log_utils - 2022-12-07 10:16:52  Line width result is 113.583 
