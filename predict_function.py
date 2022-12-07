@@ -139,8 +139,8 @@ class predictFuction(QDialog, Third):
             self.predictResult2.setText("刪除指定資料夾內的所有檔案.")
             
             #step2 : 建立新的資料夾(相同名稱)
-            os.makedirs(downloadEncrpyModel)
-            os.makedirs(realServerModel)
+            #os.makedirs(downloadEncrpyModel)
+            #os.makedirs(realServerModel)
 
         else:
             print("請完整輸入參數，才能進行預測")
